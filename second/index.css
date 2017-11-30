@@ -55,5 +55,6 @@ body {
     box-shadow: 5px 5px 5px lightslategray;
     margin-top: 20px;
     letter-spacing: 4px;
-    
+    padding: 100px;
+    box-sizing: border-box;
 }
