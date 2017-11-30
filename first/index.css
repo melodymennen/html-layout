@@ -1,0 +1,21 @@
+body {
+background-color: lightgrey;
+margin:0;
+}
+header {
+    height: 125px;
+    width: 100%;
+    background-color: darkslategray;
+}
+.main-content {
+    height: 500px;
+    width: 75%;
+    background-color: white;
+    margin: auto;
+}
+footer {
+    height: 75px;
+    width: 75%;
+    background-color: black;
+    margin: auto;
+}
